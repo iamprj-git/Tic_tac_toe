@@ -59,3 +59,4 @@ while game_over:
         display_board()
         print("Tie!! Try with extra logic:")
         game_over=False
+   current_player="X" if current_palyer is "O" else "O"
